@@ -38,7 +38,7 @@ This was a fantastic opportunity to practice flexbox properties. It was a fun an
 
 ## Author
 
-- Website - [Trisha Augustine](https://trishcodes.dev)
+- Website - [trishcodes.dev](https://trishcodes.dev)
 - Frontend Mentor - [@roguemacaroon](https://www.frontendmentor.io/profile/roguemacaroon)
 - Github - [@roguemacaroon](https://github.com/roguemacaroon)
 
@@ -46,4 +46,4 @@ This was a fantastic opportunity to practice flexbox properties. It was a fun an
 
 Thank you Frontend Mentor for this challenge.
 Thank you to my own dev mentors for being supportive throughout my journey! I would not be here without you.
-Shout out to [@VenusY] on Frontend Mentor for the feedback on my view height. Thank you!
+Shout out to @VenusY on Frontend Mentor for the feedback on my view height. Thank you!
