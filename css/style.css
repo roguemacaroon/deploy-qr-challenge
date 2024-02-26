@@ -80,7 +80,7 @@ p {
   background-color: var(--primary-white);
   border-radius: var(--spacing20);
   padding: var(--spacing10);
-  max-width: 375px;
+  max-width: 345px;
 }
 
 /* qr code image */
